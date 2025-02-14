@@ -60,7 +60,7 @@ This project helped me understand the fundamentals of game development, includin
 
 💠Handling collisions properly to ensure accurate game-over conditions.
 
-## Future Improvements
+### Future Improvements
 
 💠Add a Restart Button: So players don’t have to restart the program manually.
 
