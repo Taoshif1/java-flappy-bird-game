@@ -50,7 +50,7 @@ This project helped me understand the fundamentals of game development, includin
 
 ## Challenges Faced & Future Improvements 🔧
 
-###Challenges
+### Challenges
 
 💠Implementing smooth movement physics while keeping the gameplay fun and challenging.
 
