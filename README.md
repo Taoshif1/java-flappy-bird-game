@@ -94,7 +94,7 @@ Feel free to fork, modify and improve the game. If you have suggestions or ideas
 
 # ⭐ If you like this project, don't forget to give it a star on GitHub! ⭐
 
-#Snapshots🎨
+# Snapshots🎨
 ![Screenshot 2025-02-14 115104](https://github.com/user-attachments/assets/d9738a43-8b94-4d1c-8f8a-359d94b40887)
 
 ![Screenshot 2025-02-14 125102](https://github.com/user-attachments/assets/ef9664cb-a827-4a9c-90a4-aec119fee0a8)
