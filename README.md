@@ -1,4 +1,4 @@
-# Flappy Bird - Java Game Project
+## Flappy Bird - Java Game Project
 
 # Introduction
 
