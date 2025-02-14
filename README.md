@@ -1,6 +1,6 @@
-## Flappy Bird - Java Game Project
+# Flappy Bird - Java Game Project
 
-# Introduction
+## Introduction
 
 This is my third and final Java project (for now), a Flappy Bird game! 🚀 This was a side project and a learning experience where I explored game development for the first time in my life. As someone who enjoys coding, I wanted to step out of my usual projects and experiment with something fun, interactive, and challenging.
 
