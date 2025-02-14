@@ -42,8 +42,6 @@ This project helped me understand the fundamentals of game development, includin
 
 ## Cons ❌
 
-💠No Restart Feature: Once the game is over, it cannot be restarted without restarting the application.
-
 💠Basic Graphics: The game currently uses simple images; animations and better visuals could enhance the experience.
 
 💠Hardcoded Values: Some values (such as gravity, speed, and pipe spacing) are hardcoded instead of being adjustable via configuration.
