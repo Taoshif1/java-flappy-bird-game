@@ -2,7 +2,7 @@
 
 ## Introduction 🚀
 
-This is my third and final Java project (for now), which is a Flappy Bird game! 🚀 This was a side project and a learning experience where I explored game development for the first time in my life. As someone who enjoys coding, I wanted to step out of my usual projects and experiment with something fun, interactive and challenging.
+This is my third and final Java project (for now), which is a Flappy Bird game! This was a side project and a learning experience where I explored game development for the first time in my life. As someone who enjoys coding, I wanted to step out of my usual projects and experiment with something fun, interactive and challenging. 🚀 
 
 This project helped me understand the fundamentals of game development, including game loops, physics (gravity), collision detection, event handling and rendering graphics using Java Swing. The project is not perfect but it reflects my dedication, passion and love for coding. 💻❤️
 
