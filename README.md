@@ -86,13 +86,13 @@ This project helped me understand the fundamentals of game development, includin
 
 5. Press the Spacebar to make the bird jump and avoid the pipes!
 
-##Final Thoughts 💡
+## Final Thoughts 💡
 
 This project was a thrilling experience as I ventured into game development. It taught me problem-solving, graphics handling and game physics, which I never explored before. I hope this serves as a great reference for others looking to build their first Java game!
 
 Feel free to fork, modify and improve the game. If you have suggestions or ideas, let me know! 😊
 
-#⭐ If you like this project, don't forget to give it a star on GitHub! ⭐
+# ⭐ If you like this project, don't forget to give it a star on GitHub! ⭐
 
 #Snapshots🎨
 ![Screenshot 2025-02-14 115104](https://github.com/user-attachments/assets/d9738a43-8b94-4d1c-8f8a-359d94b40887)
